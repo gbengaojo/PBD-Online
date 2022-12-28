@@ -1,0 +1,7 @@
+Dec 28 16:59:47 10.71.60.0 u40575326 Connection from 10.71.60.0 port 23748 on 74.208.57.34 port 22
+Dec 28 16:59:47 10.71.60.0 u40575326 Failed publickey for u40575326 from 10.71.60.0 port 23748 ssh2: RSA SHA256:IgdoNlcJPDZ+sQKAe6PPpFRzIAOyfnIc3Jb0N9XiXhc
+Dec 28 16:59:53 10.71.60.0 u40575326 Accepted password for u40575326 from 10.71.60.0 port 23748 ssh2
+Dec 28 17:00:30 10.71.60.0 u40575326 Received disconnect from 10.71.60.0 port 23748:11: disconnected by user
+Dec 28 17:01:54 10.71.60.0 u40575326 Connection from 10.71.60.0 port 52678 on 74.208.57.34 port 22
+Dec 28 17:01:56 10.71.60.0 u40575326 Failed publickey for u40575326 from 10.71.60.0 port 52678 ssh2: RSA SHA256:IgdoNlcJPDZ+sQKAe6PPpFRzIAOyfnIc3Jb0N9XiXhc
+Dec 28 17:02:01 10.71.60.0 u40575326 Accepted password for u40575326 from 10.71.60.0 port 52678 ssh2

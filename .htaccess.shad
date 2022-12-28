@@ -1,0 +1,14 @@
+RewriteEngine On
+ 
+RewriteRule ^\.htaccess$ - [F]
+ 
+RewriteCond %{REQUEST_URI} =""
+RewriteRule ^.*$ /clients/shad/public/index.php [NC,L]
+ 
+RewriteCond %{REQUEST_URI} !^/clients/shad/public/.*$
+RewriteRule ^(.*)$ /clients/shad/public/$1
+ 
+RewriteCond %{REQUEST_FILENAME} -f
+RewriteRule ^.*$ - [NC,L]
+ 
+RewriteRule ^public/.*$ /clients/shad/public/index.php [NC,L]
