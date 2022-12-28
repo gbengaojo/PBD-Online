@@ -1,7 +1,7 @@
 <!-- Header -->
          <header id="header">
             <div class="inner">
-               <a href="index.php" class="logo"><strong>Lucid Media Concepts</strong></a>
+               <a href="index.php" class="logo"><strong>PBD Consulting (formerly LMC)</strong></a>
                <nav id="nav">
                   <a href="index.php">Home</a>
                   <a href="software.php">Software</a>

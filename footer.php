@@ -31,16 +31,17 @@
                   </ul>
                </form>
 
-<!--
              <form action="?" method="POST">
                <div class="g-recaptcha" data-sitekey="6LdR-akUAAAAAMoNPkRAWmuX4n7_V9HviguKu2_m"></div>
                <br/>
                <input type="submit" value="Submit">
              </form>
--->
+
+    <!-- Google reCaptcha -->
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 
                <div class="copyright">
-                  &copy; <?php echo date('Y') ?> - Lucid Media Concepts. Images: <a href="https://unsplash.com">Unsplash</a>.
+                  &copy; <?php echo date('Y') ?> - PBD Consulting. Images: <a href="https://unsplash.com">Unsplash</a>.
                </div>
 
             </div>
